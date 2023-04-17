@@ -1,1 +1,2 @@
-README
+#!/bin/bash
+Shell Redirections
